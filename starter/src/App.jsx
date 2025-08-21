@@ -5,7 +5,7 @@ import { Route, Routes } from "react-router-dom";
 import Bookcase from "./components/Bookcase";
 import Search from "./components/Search";
 
-function App() {
+const App = () => {
   const [books, setBooks] = useState([]);
 
   useEffect(() => {
