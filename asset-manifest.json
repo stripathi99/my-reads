@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stripathi99/my-reads/tree/main/starter/static/css/main.c6527dec.css",
-    "main.js": "/stripathi99/my-reads/tree/main/starter/static/js/main.a607c36c.js",
-    "index.html": "/stripathi99/my-reads/tree/main/starter/index.html",
-    "static/media/arrow-back.svg": "/stripathi99/my-reads/tree/main/starter/static/media/arrow-back.cd079cab42defead9875.svg",
-    "static/media/add.svg": "/stripathi99/my-reads/tree/main/starter/static/media/add.1b5d9b6afb5557f7992c.svg",
-    "static/media/arrow-drop-down.svg": "/stripathi99/my-reads/tree/main/starter/static/media/arrow-drop-down.4378492a3a09dbfc31ff.svg",
-    "main.c6527dec.css.map": "/stripathi99/my-reads/tree/main/starter/static/css/main.c6527dec.css.map",
-    "main.a607c36c.js.map": "/stripathi99/my-reads/tree/main/starter/static/js/main.a607c36c.js.map"
+    "main.css": "/my-reads/tree/main/starter/static/css/main.29fc1819.css",
+    "main.js": "/my-reads/tree/main/starter/static/js/main.a607c36c.js",
+    "index.html": "/my-reads/tree/main/starter/index.html",
+    "static/media/arrow-back.svg": "/my-reads/tree/main/starter/static/media/arrow-back.cd079cab42defead9875.svg",
+    "static/media/add.svg": "/my-reads/tree/main/starter/static/media/add.1b5d9b6afb5557f7992c.svg",
+    "static/media/arrow-drop-down.svg": "/my-reads/tree/main/starter/static/media/arrow-drop-down.4378492a3a09dbfc31ff.svg",
+    "main.29fc1819.css.map": "/my-reads/tree/main/starter/static/css/main.29fc1819.css.map",
+    "main.a607c36c.js.map": "/my-reads/tree/main/starter/static/js/main.a607c36c.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6527dec.css",
+    "static/css/main.29fc1819.css",
     "static/js/main.a607c36c.js"
   ]
 }
