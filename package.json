@@ -1,7 +1,7 @@
 {
   "name": "nd0191-myreads-starter",
   "version": "0.1.0",
-  "homepage": "https://stripathi99.github.io/my-reads/tree/main/starter",
+  "homepage": "https://stripathi99.github.io/my-reads",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
